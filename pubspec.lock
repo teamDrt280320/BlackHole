@@ -317,6 +317,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.0"
+  miniplayer:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: af3c1beb0dac97fad351ba9aae654d887a8e0c24
+      url: "https://github.com/Sangwan5688/miniplayer.git"
+    source: git
+    version: "1.0.0+2"
   octo_image:
     dependency: transitive
     description:
@@ -379,7 +388,7 @@ packages:
       name: permission_handler
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "7.0.0"
+    version: "7.1.0"
   permission_handler_platform_interface:
     dependency: transitive
     description:
